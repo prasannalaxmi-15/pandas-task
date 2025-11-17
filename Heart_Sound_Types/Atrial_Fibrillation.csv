@@ -1,0 +1,16 @@
+Gender,Heart Sound Type,Lung Sound Type,Location,Heart Sound ID,Lung Sound ID,Mixed Sound ID
+M,Atrial Fibrillation,Normal,LMA,H0003,L0003,M0003
+F,Atrial Fibrillation,Pleural Rub,RC,H0013,L0013,M0013
+F,Atrial Fibrillation,Rhonchi,RLA,H0016,L0016,M0016
+M,Atrial Fibrillation,Pleural Rub,RC,H0025,L0025,M0025
+F,Atrial Fibrillation,Normal,LLA,H0041,L0041,M0041
+F,Atrial Fibrillation,Normal,LMA,H0046,L0046,M0046
+M,Atrial Fibrillation,Rhonchi,RMA,H0047,L0047,M0047
+F,Atrial Fibrillation,Coarse Crackles,LLSB,H0053,L0053,M0053
+F,Atrial Fibrillation,Pleural Rub,Apex,H0065,L0065,M0065
+F,Atrial Fibrillation,Rhonchi,RUA,H0067,L0067,M0067
+M,Atrial Fibrillation,Coarse Crackles,LMA,H0087,L0087,M0087
+M,Atrial Fibrillation,Rhonchi,RUSB,H0091,L0091,M0091
+M,Atrial Fibrillation,Pleural Rub,RLA,H0102,L0102,M0102
+M,Atrial Fibrillation,Wheezing,Apex,H0114,L0114,M0114
+F,Atrial Fibrillation,Fine Crackles,LLA,H0115,L0115,M0115

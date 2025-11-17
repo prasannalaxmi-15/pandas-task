@@ -1,0 +1,14 @@
+Gender,Heart Sound Type,Lung Sound Type,Location,Heart Sound ID,Lung Sound ID,Mixed Sound ID
+F,Late Diastolic Murmur,Rhonchi,LUA,H0014,L0014,M0014
+F,Late Diastolic Murmur,Coarse Crackles,LUA,H0015,L0015,M0015
+F,Late Diastolic Murmur,Normal,RLA,H0020,L0020,M0020
+M,Late Diastolic Murmur,Coarse Crackles,RMA,H0027,L0027,M0027
+M,Late Diastolic Murmur,Fine Crackles,LLSB,H0045,L0045,M0045
+F,Late Diastolic Murmur,Wheezing,RUSB,H0054,L0054,M0054
+F,Late Diastolic Murmur,Coarse Crackles,RLA,H0057,L0057,M0057
+M,Late Diastolic Murmur,Wheezing,LMA,H0060,L0060,M0060
+F,Late Diastolic Murmur,Rhonchi,RUA,H0077,L0077,M0077
+F,Late Diastolic Murmur,Pleural Rub,RUSB,H0097,L0097,M0097
+M,Late Diastolic Murmur,Wheezing,LMA,H0123,L0123,M0123
+M,Late Diastolic Murmur,Fine Crackles,Apex,H0137,L0137,M0137
+M,Late Diastolic Murmur,Normal,RUSB,H0145,L0145,M0145

@@ -1,0 +1,17 @@
+Gender,Heart Sound Type,Lung Sound Type,Location,Heart Sound ID,Lung Sound ID,Mixed Sound ID
+M,Tachycardia,Pleural Rub,Apex,H0007,L0007,M0007
+M,Tachycardia,Pleural Rub,RUA,H0019,L0019,M0019
+M,Tachycardia,Normal,LC,H0023,L0023,M0023
+M,Tachycardia,Pleural Rub,LC,H0029,L0029,M0029
+F,Tachycardia,Pleural Rub,LUA,H0032,L0032,M0032
+M,Tachycardia,Rhonchi,LC,H0040,L0040,M0040
+M,Tachycardia,Pleural Rub,LLSB,H0043,L0043,M0043
+F,Tachycardia,Normal,RC,H0051,L0051,M0051
+F,Tachycardia,Coarse Crackles,RMA,H0062,L0062,M0062
+F,Tachycardia,Coarse Crackles,LC,H0079,L0079,M0079
+M,Tachycardia,Rhonchi,RUA,H0090,L0090,M0090
+M,Tachycardia,Wheezing,LUSB,H0098,L0098,M0098
+M,Tachycardia,Fine Crackles,RMA,H0118,L0118,M0118
+F,Tachycardia,Wheezing,Apex,H0129,L0129,M0129
+M,Tachycardia,Wheezing,RUSB,H0136,L0136,M0136
+M,Tachycardia,Normal,LLA,H0138,L0138,M0138

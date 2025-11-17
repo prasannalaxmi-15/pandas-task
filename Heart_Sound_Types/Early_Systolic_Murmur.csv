@@ -1,0 +1,14 @@
+Gender,Heart Sound Type,Lung Sound Type,Location,Heart Sound ID,Lung Sound ID,Mixed Sound ID
+F,Early Systolic Murmur,Pleural Rub,LMA,H0008,L0008,M0008
+F,Early Systolic Murmur,Coarse Crackles,LUA,H0010,L0010,M0010
+M,Early Systolic Murmur,Coarse Crackles,RC,H0034,L0034,M0034
+F,Early Systolic Murmur,Wheezing,LUSB,H0050,L0050,M0050
+F,Early Systolic Murmur,Pleural Rub,LC,H0052,L0052,M0052
+F,Early Systolic Murmur,Pleural Rub,LUSB,H0075,L0075,M0075
+M,Early Systolic Murmur,Normal,LMA,H0084,L0084,M0084
+F,Early Systolic Murmur,Normal,RLA,H0110,L0110,M0110
+M,Early Systolic Murmur,Rhonchi,RMA,H0117,L0117,M0117
+F,Early Systolic Murmur,Fine Crackles,LLA,H0120,L0120,M0120
+F,Early Systolic Murmur,Normal,LLSB,H0130,L0130,M0130
+F,Early Systolic Murmur,Normal,RLA,H0140,L0140,M0140
+F,Early Systolic Murmur,Wheezing,RLA,H0143,L0143,M0143

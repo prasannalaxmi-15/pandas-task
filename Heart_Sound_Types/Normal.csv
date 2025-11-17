@@ -1,0 +1,14 @@
+Gender,Heart Sound Type,Lung Sound Type,Location,Heart Sound ID,Lung Sound ID,Mixed Sound ID
+M,Normal,Wheezing,LC,H0039,L0039,M0039
+M,Normal,Coarse Crackles,RC,H0044,L0044,M0044
+M,Normal,Normal,LLSB,H0066,L0066,M0066
+F,Normal,Normal,RUA,H0074,L0074,M0074
+F,Normal,Rhonchi,LC,H0085,L0085,M0085
+M,Normal,Rhonchi,LUA,H0096,L0096,M0096
+F,Normal,Wheezing,LLA,H0103,L0103,M0103
+M,Normal,Rhonchi,RC,H0106,L0106,M0106
+M,Normal,Pleural Rub,LLSB,H0107,L0107,M0107
+F,Normal,Fine Crackles,LLA,H0111,L0111,M0111
+M,Normal,Normal,RC,H0122,L0122,M0122
+F,Normal,Fine Crackles,LLA,H0126,L0126,M0126
+F,Normal,Fine Crackles,Apex,H0133,L0133,M0133

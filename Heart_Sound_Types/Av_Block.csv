@@ -1,0 +1,14 @@
+Gender,Heart Sound Type,Lung Sound Type,Location,Heart Sound ID,Lung Sound ID,Mixed Sound ID
+M,Av Block,Fine Crackles,RUSB,H0005,L0005,M0005
+F,Av Block,Rhonchi,RMA,H0012,L0012,M0012
+M,Av Block,Fine Crackles,LMA,H0022,L0022,M0022
+F,Av Block,Coarse Crackles,RC,H0028,L0028,M0028
+M,Av Block,Normal,LLSB,H0037,L0037,M0037
+F,Av Block,Rhonchi,LUSB,H0056,L0056,M0056
+M,Av Block,Pleural Rub,LLSB,H0083,L0083,M0083
+M,Av Block,Coarse Crackles,LMA,H0093,L0093,M0093
+F,Av Block,Fine Crackles,RUSB,H0099,L0099,M0099
+F,Av Block,Wheezing,LLA,H0121,L0121,M0121
+M,Av Block,Wheezing,RMA,H0124,L0124,M0124
+M,Av Block,Normal,LMA,H0134,L0134,M0134
+F,Av Block,Normal,LUA,H0144,L0144,M0144

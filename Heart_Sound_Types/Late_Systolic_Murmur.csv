@@ -1,0 +1,18 @@
+Gender,Heart Sound Type,Lung Sound Type,Location,Heart Sound ID,Lung Sound ID,Mixed Sound ID
+F,Late Systolic Murmur,Rhonchi,LUSB,H0001,L0001,M0001
+F,Late Systolic Murmur,Wheezing,RMA,H0018,L0018,M0018
+M,Late Systolic Murmur,Coarse Crackles,LUSB,H0021,L0021,M0021
+F,Late Systolic Murmur,Fine Crackles,RC,H0031,L0031,M0031
+F,Late Systolic Murmur,Fine Crackles,LUSB,H0033,L0033,M0033
+M,Late Systolic Murmur,Fine Crackles,RC,H0055,L0055,M0055
+M,Late Systolic Murmur,Coarse Crackles,RLA,H0069,L0069,M0069
+F,Late Systolic Murmur,Normal,LUA,H0070,L0070,M0070
+M,Late Systolic Murmur,Normal,RMA,H0078,L0078,M0078
+F,Late Systolic Murmur,Wheezing,LLSB,H0081,L0081,M0081
+F,Late Systolic Murmur,Fine Crackles,LUA,H0082,L0082,M0082
+M,Late Systolic Murmur,Rhonchi,LC,H0094,L0094,M0094
+F,Late Systolic Murmur,Coarse Crackles,LLSB,H0100,L0100,M0100
+M,Late Systolic Murmur,Wheezing,RMA,H0101,L0101,M0101
+F,Late Systolic Murmur,Wheezing,RUSB,H0105,L0105,M0105
+F,Late Systolic Murmur,Rhonchi,LUA,H0108,L0108,M0108
+F,Late Systolic Murmur,Pleural Rub,LLA,H0112,L0112,M0112
